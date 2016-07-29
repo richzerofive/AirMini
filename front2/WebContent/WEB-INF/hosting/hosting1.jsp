@@ -27,10 +27,6 @@
 		<input type="radio" name="house" value="multi" /> 다인실
 		<a href="../main.jsp">뒤로</a>
 		<a href="">다음</a>
-		
-		
-		
-		
 
 </body>
 </html>
