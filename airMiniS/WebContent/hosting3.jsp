@@ -10,7 +10,7 @@
 	
 		호스팅 등록이 완료되었습니다!
 		
-		<a href="../index.jsp">홈페이지 이동하기!</a>
+		<a href="index.jsp">홈페이지 이동하기!</a>
 		
 </body>
 </html>
